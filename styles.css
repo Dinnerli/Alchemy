@@ -473,7 +473,7 @@ footer {
     .intro-img{
         width: 100%;
         justify-content: center;
-        border-radius: 25px;
+        border-radius: 10px;
         margin-bottom: 20px
     }
 
@@ -516,7 +516,9 @@ footer {
         margin-top: 20px;
 
     }
-
+    .service-description{
+        font-size: medium;
+}
 
 
 

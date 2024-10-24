@@ -519,8 +519,14 @@ footer {
     }
     .service-description{
         font-size: medium;
-}
-
+    }   
+    .service-txt{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+        font-family: 'inter';
+        font-size:small;
+    }
 
 
 
